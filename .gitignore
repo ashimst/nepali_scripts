@@ -1,2 +1,6 @@
 data/
 dataset/
+dataset_train/
+dataset_test/
+few_shot_code.zip
+few_shot_classifier.ipynb
